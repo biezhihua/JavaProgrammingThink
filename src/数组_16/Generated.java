@@ -1,6 +1,6 @@
 package 数组_16;
 
-import 容器的深入研究_17.填充容器_17_2.CollectionData;
+import 容器的深入研究_17._2_填充容器.CollectionData;
 import 泛型_15.Generator;
 
 /**
