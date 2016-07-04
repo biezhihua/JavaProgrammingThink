@@ -2,40 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="884bd383-d1c1-4a94-a405-a28246729e71" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/QueueBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/ToDoList.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/Set和存储顺序_17_6/HashType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/Set和存储顺序_17_6/SetType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/Set和存储顺序_17_6/TreeType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/Set和存储顺序_17_6/TypesForSets.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/CollectionData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/CollectionDataTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/Countries$FlyweightMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/Countries.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/FillingLists.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/Government.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/Letters$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/Letters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/Lists.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/MapData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/MapDataTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/填充容器_17_2/StringAddress.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/Set和存储顺序_17_6/SortedSetDemo.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_6_Set和存储顺序/SortedSetDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/Set和存储顺序_17_6/TypesForSets.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_6_Set和存储顺序/TypesForSets.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/填充容器_17_2/CollectionData.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/CollectionData.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/填充容器_17_2/CollectionDataTest.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/CollectionDataTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/填充容器_17_2/Countries.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/Countries.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/填充容器_17_2/FillingLists.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/FillingLists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/填充容器_17_2/Lists.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/Lists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/填充容器_17_2/MapData.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/MapData.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/填充容器_17_2/MapDataTest.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/MapDataTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/填充容器_17_2/Pair.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/Pair.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/数组_16/Generated.class" afterPath="$PROJECT_DIR$/out/production/JavaProgrammingThink/数组_16/Generated.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/AssociativeArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/CountedString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/Groundhog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/Maps.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/SimpleHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/SortedMapDemo.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/_8_队列/QueueBehavior$Gen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/_8_队列/QueueBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/_8_队列/ToDoList$ToDoItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/_8_队列/ToDoList.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/QueueBehavior.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_7_队列/QueueBehavior.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/ToDoList.java" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/_7_队列/ToDoList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/容器的深入研究.md" afterPath="$PROJECT_DIR$/out/production/JavaProgrammingThink/容器的深入研究_17/容器的深入研究.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/容器的深入研究_17/容器的深入研究.md" afterPath="$PROJECT_DIR$/src/容器的深入研究_17/容器的深入研究.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/数组_16/Generated.java" afterPath="$PROJECT_DIR$/src/数组_16/Generated.java" />
     </list>
     <ignored path="JavaProgrammingThink.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,125 +41,126 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="容器的深入研究.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/容器的深入研究.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.7476099">
-                <caret line="72" column="130" selection-start-line="72" selection-start-column="130" selection-end-line="72" selection-end-column="130" />
+              <first_editor vertical-scroll-proportion="0.78967494">
+                <caret line="151" column="32" selection-start-line="151" selection-start-column="32" selection-end-line="151" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/AbstractMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1470" column="26" selection-start-line="1470" selection-start-column="25" selection-end-line="1470" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#124311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountedString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/CountedString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="4.030303">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/Maps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="186" column="7" selection-start-line="186" selection-start-column="7" selection-end-line="186" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#53227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Groundhog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/Groundhog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Genericator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/泛型_15/Genericator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="泛型.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/泛型_15/泛型.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ToDoList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/ToDoList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
-              <folding>
-                <element signature="e#970#971#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1114#1115#0" expanded="true" />
-                <element signature="e#1167#1168#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueueBehavior.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/QueueBehavior.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-                <element signature="e#809#810#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayDeque.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/ArrayDeque.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Deque.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/Deque.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayBlockingQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="237" column="11" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="11" />
-              <folding>
-                <element signature="e#6812#6813#0" expanded="true" />
-                <element signature="e#6849#6850#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#8063#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TypesForSets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_6_Set和存储顺序/TypesForSets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
-              <folding>
-                <element signature="e#1622#1623#0" expanded="false" />
-                <element signature="e#1643#1644#0" expanded="false" />
-                <element signature="e#1696#1697#0" expanded="false" />
-                <element signature="e#1765#1766#0" expanded="false" />
-                <element signature="e#1811#1812#0" expanded="false" />
-                <element signature="e#1853#1854#0" expanded="false" />
-                <element signature="e#1932#1933#0" expanded="false" />
-                <element signature="e#1956#1957#0" expanded="false" />
-                <element signature="e#1986#1987#0" expanded="false" />
-                <element signature="e#2010#2011#0" expanded="false" />
-                <element signature="e#2108#2109#0" expanded="false" />
-                <element signature="e#2132#2133#0" expanded="false" />
-                <element signature="e#2186#2187#0" expanded="false" />
-                <element signature="e#2244#2245#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortedSetDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_6_Set和存储顺序/SortedSetDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.0">
+                <caret line="204" column="1" selection-start-line="204" selection-start-column="1" selection-end-line="204" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -204,12 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/泛型/擦除的补偿_15_8/ArrayOfGeneric.java" />
-        <option value="$PROJECT_DIR$/src/泛型/擦除的补偿_15_8/GenericArray2.java" />
-        <option value="$PROJECT_DIR$/src/泛型/擦除的补偿_15_8/GenericArrayWithTypeToken.java" />
-        <option value="$PROJECT_DIR$/src/泛型/BasicBounds.java" />
-        <option value="$PROJECT_DIR$/src/泛型/边界_15_9/BasicBounds.java" />
-        <option value="$PROJECT_DIR$/src/泛型/边界_15_9/InheritBounds.java" />
         <option value="$PROJECT_DIR$/src/泛型/通配符_15_10/NonCovariantGenerics.java" />
         <option value="$PROJECT_DIR$/src/泛型/通配符_15_10/GenericsAndCovariance.java" />
         <option value="$PROJECT_DIR$/src/泛型/InheritBounds.java" />
@@ -254,6 +230,12 @@
         <option value="$PROJECT_DIR$/src/容器的深入研究_17/Set和存储顺序_17_6/SortedSetDemo.java" />
         <option value="$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/QueueBehavior.java" />
         <option value="$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/ToDoList.java" />
+        <option value="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/AssociativeArray.java" />
+        <option value="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/Maps.java" />
+        <option value="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/SortedMapDemo.java" />
+        <option value="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/Groundhog.java" />
+        <option value="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/SimpleHashMap.java" />
+        <option value="$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/CountedString.java" />
         <option value="$PROJECT_DIR$/src/容器的深入研究_17/容器的深入研究.md" />
       </list>
     </option>
@@ -301,7 +283,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -349,6 +331,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="泛型_15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaProgrammingThink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaProgrammingThink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="容器的深入研究_17" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -371,46 +371,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_8_队列" />
+              <option name="myItemId" value="_8_理解Map" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaProgrammingThink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaProgrammingThink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="容器的深入研究_17" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_8_理解Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleHashMap.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="ArrayDe&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;Array&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/concurrent/ArrayBlockingQueue.java&#10;Queue&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Queue.java&#10;Sorteds&#9;PSI&#9;JAVA://java.util.SortedSet&#10;Comparable&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/lang/Comparable.java&#10;Collection&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Collection.java&#10;COmparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Arrays&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Arrays.java&#10;Iterator&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Iterator.java&#10;Iterable&#9;FILE&#9;file:///home/biezhihua/下载/JavaProgrammingThink/src/泛型_15/泛型接口_15_3/IterableFibonacc.java" />
+    <property name="SearchEverywhereHistoryKey" value="Str&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/lang/String.java&#10;Map&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Map.java&#10;String&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/lang/String.java&#10;ArrayDe&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;Array&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/concurrent/ArrayBlockingQueue.java&#10;Queue&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Queue.java&#10;Sorteds&#9;PSI&#9;JAVA://java.util.SortedSet&#10;Comparable&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/lang/Comparable.java&#10;Collection&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Collection.java&#10;COmparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Arrays&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Arrays.java&#10;Iterator&#9;FILE&#9;jar:///home/biezhihua/software/jdk1.8.0_60/src.zip!/java/util/Iterator.java&#10;Iterable&#9;FILE&#9;file:///home/biezhihua/下载/JavaProgrammingThink/src/泛型_15/泛型接口_15_3/IterableFibonacc.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/泛型" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueBehavior">
-    <configuration default="false" name="TestGenerated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="数组_16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="数组_16.TestGenerated" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaProgrammingThink" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SpringDetecotr">
     <configuration default="false" name="MapDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -454,11 +460,11 @@
     <configuration default="false" name="QueueBehavior" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="容器的深入研究_17._8_队列.*" />
+          <option name="PATTERN" value="容器的深入研究_17._7_队列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="容器的深入研究_17._8_队列.QueueBehavior" />
+      <option name="MAIN_CLASS_NAME" value="容器的深入研究_17._7_队列.QueueBehavior" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -474,11 +480,31 @@
     <configuration default="false" name="ToDoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="容器的深入研究_17._8_队列.*" />
+          <option name="PATTERN" value="容器的深入研究_17._7_队列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="容器的深入研究_17._8_队列.ToDoList" />
+      <option name="MAIN_CLASS_NAME" value="容器的深入研究_17._7_队列.ToDoList" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaProgrammingThink" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringDetecotr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="容器的深入研究_17._8_理解Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="容器的深入研究_17._8_理解Map.SpringDetecotr" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -892,19 +918,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestGenerated" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MapDataTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TypesForSets" />
-      <item index="3" class="java.lang.String" itemvalue="Application.QueueBehavior" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ToDoList" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MapDataTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TypesForSets" />
+      <item index="2" class="java.lang.String" itemvalue="Application.QueueBehavior" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ToDoList" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SpringDetecotr" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.QueueBehavior" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ToDoList" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TypesForSets" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MapDataTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestGenerated" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SpringDetecotr" />
+        <item index="1" class="java.lang.String" itemvalue="Application.QueueBehavior" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ToDoList" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TypesForSets" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MapDataTest" />
       </list>
     </recent_temporary>
   </component>
@@ -933,12 +959,17 @@
       <workItem from="1467121933990" duration="17000" />
       <workItem from="1467126775588" duration="162000" />
       <workItem from="1467206759177" duration="6157000" />
-      <workItem from="1467293907061" duration="4783000" />
+      <workItem from="1467293907061" duration="4936000" />
+      <workItem from="1467382312188" duration="976000" />
+      <workItem from="1467386778706" duration="1666000" />
+      <workItem from="1467533719262" duration="1269000" />
+      <workItem from="1467555596307" duration="6179000" />
+      <workItem from="1467635805468" duration="1888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82865000" />
+    <option name="totallyTimeSpent" value="94996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1317" height="744" extended-state="6" />
@@ -946,27 +977,27 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5059195" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.4940805" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2596685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25177586" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25177586" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -980,10 +1011,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.4940805" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2596685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2596685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25177586" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1014,83 +1045,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/泛型_15/自限定的类型_15_12/NotSelfBounded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/泛型_15/自限定的类型_15_12/CovariantReturnTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/泛型_15/自限定的类型_15_12/GenericsAndReturnTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6666666">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/泛型_15/自限定的类型_15_12/SelfBOundingAndCovariantArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/泛型_15/异常_15_14/ThrowGenericException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7938144">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/泛型_15/混型_15_15/Mixins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.604811">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/泛型_15/将函数用作策略_15_18/Functional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15120275">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/FillingLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6210526">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="27.847368">
-          <caret line="520" column="27" selection-start-line="520" selection-start-column="27" selection-end-line="520" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/LinkedHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.931579">
-          <caret line="166" column="11" selection-start-line="166" selection-start-column="11" selection-end-line="166" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="18.121052">
-          <caret line="340" column="51" selection-start-line="340" selection-start-column="50" selection-end-line="340" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/数组_16/ParameterizedArrayType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1117,19 +1071,6 @@
         <state vertical-scroll-proportion="-3.3848798">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/泛型_15/泛型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="3.6921606">
-            <caret line="204" column="1" selection-start-line="204" selection-start-column="1" selection-end-line="204" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/ArrayList.java">
@@ -1185,7 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5670103">
           <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1193,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.024055">
           <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,6 +1144,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/数组_16/数组.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.21032505">
@@ -1212,9 +1154,6 @@
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_2_填充容器/CollectionData.java">
@@ -1256,7 +1195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.4604811">
           <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1278,9 +1216,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.474227">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#27819#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1295,7 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.24742268">
           <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1303,7 +1237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1311,12 +1244,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="92" column="21" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
-          <folding>
-            <element signature="e#4697#4698#0" expanded="false" />
-            <element signature="e#4742#4743#0" expanded="false" />
-            <element signature="e#14955#14956#0" expanded="false" />
-            <element signature="e#14992#14993#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1338,22 +1265,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
-          <folding>
-            <element signature="e#1622#1623#0" expanded="false" />
-            <element signature="e#1643#1644#0" expanded="false" />
-            <element signature="e#1696#1697#0" expanded="false" />
-            <element signature="e#1765#1766#0" expanded="false" />
-            <element signature="e#1811#1812#0" expanded="false" />
-            <element signature="e#1853#1854#0" expanded="false" />
-            <element signature="e#1932#1933#0" expanded="false" />
-            <element signature="e#1956#1957#0" expanded="false" />
-            <element signature="e#1986#1987#0" expanded="false" />
-            <element signature="e#2010#2011#0" expanded="false" />
-            <element signature="e#2108#2109#0" expanded="false" />
-            <element signature="e#2132#2133#0" expanded="false" />
-            <element signature="e#2186#2187#0" expanded="false" />
-            <element signature="e#2244#2245#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1361,6 +1272,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/SortedMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/AssociativeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_7_队列/ToDoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_7_队列/QueueBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="237" column="11" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -1369,76 +1329,121 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/SimpleHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/Maps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="186" column="7" selection-start-line="186" selection-start-column="7" selection-end-line="186" selection-end-column="7" />
           <folding>
-            <element signature="e#0#8063#0" expanded="true" />
+            <element signature="e#0#53227#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/ToDoList.java">
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/Groundhog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
-          <folding>
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1114#1115#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="237" column="11" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="11" />
-          <folding>
-            <element signature="e#6812#6813#0" expanded="true" />
-            <element signature="e#6849#6850#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_队列/QueueBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/ArrayDeque.java">
+    <entry file="file://$PROJECT_DIR$/src/泛型_15/Genericator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="43" />
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/src/泛型_15/泛型.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/容器的深入研究.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.7476099">
-            <caret line="72" column="130" selection-start-line="72" selection-start-column="130" selection-end-line="72" selection-end-column="130" />
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="204" column="1" selection-start-line="204" selection-start-column="1" selection-end-line="204" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk1.8.0_60/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1470" column="26" selection-start-line="1470" selection-start-column="25" selection-end-line="1470" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#124311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/_8_理解Map/CountedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.030303">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/容器的深入研究_17/容器的深入研究.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.78967494">
+            <caret line="151" column="32" selection-start-line="151" selection-start-column="32" selection-end-line="151" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
   </component>

@@ -1,4 +1,4 @@
-package 容器的深入研究_17._8_队列;
+package 容器的深入研究_17._7_队列;
 
 import 泛型_15.Generator;
 
