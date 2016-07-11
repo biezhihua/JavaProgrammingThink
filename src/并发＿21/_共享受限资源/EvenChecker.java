@@ -1,4 +1,4 @@
-package 并发＿21;
+package 并发＿21._共享受限资源;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
